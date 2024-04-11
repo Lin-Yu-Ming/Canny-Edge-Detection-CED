@@ -9,4 +9,5 @@
   -  Hysteresis thresholding
  
     
-![1 (2)](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED-/assets/71814265/fa288260-47cb-4bc3-b468-3c697acd40bd)
+![1 ](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED-/assets/71814265/90abd389-bf38-441f-a713-d3a9ff6cc5a3)
+
