@@ -33,3 +33,12 @@
 
 ![image](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED-/assets/71814265/bc8c2927-a336-43d9-9e18-ba7a85efb91d)
 
+
+
+### FSM
+
+
+
+![1](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED/assets/71814265/f21fc8f4-adfb-4340-a6e1-8e3d046fe392)
+
+
