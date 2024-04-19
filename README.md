@@ -15,7 +15,8 @@
 ### Block Diagram
 
 
-![2](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED-/assets/71814265/7a90ec03-d0d7-4f9d-beba-6fe3b0f6f9d0)
+![image](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED/assets/71814265/ef3784fc-f61c-4669-b229-51e05d4444e1)
+
 
 
 
