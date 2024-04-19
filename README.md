@@ -22,8 +22,10 @@
 ### I/O Information
 
 
+![1](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED/assets/71814265/45168a36-07cf-4be7-a501-9b04a6092815)
 
-![3](https://github.com/Lin-Yu-Ming/Canny-Edge-Detection-CED-/assets/71814265/8e866c91-0d5c-408e-af86-e7ea6ff4d7f5)
+
+
 
 
 
